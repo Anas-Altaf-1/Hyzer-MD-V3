@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285646458928'] 
+global.owner = ['6281515453325'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Xynels Design'
-global.numberowner = '6285646458928'
+global.numberowner = '6281515453325'
 global.instagram = 'https://instagram.com/xynels.design'
 global.github = 'https://github.com/Xynels'
 global.dana = '081515453325'
