@@ -7,20 +7,21 @@ global.prems = []
 global.nameowner = 'Xynels Design'
 global.numberowner = '6281515453325'
 global.instagram = 'https://instagram.com/xynels.design'
-global.github = 'https://github.com/Xynels'
+global.github = 'https://github.com/Xynelsbotz'
 global.dana = '081515453325'
 global.pulsa = '085646458928'
 global.gopay = '081515453325'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'NelxBotz-Md'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Nelxbotz-MD'
+global.gc = 'https://chat.whatsapp.com/G0CKmdYhIt5DJmhXr2RsN5'
+global.web = 'desain630676984.wordpress.com
+(buka di tab baru)' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 13.000\n2 Minggu 8.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/0bfa29eb00c794fe412f1.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/cff59ded3aa098b08795d.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/2e8840b1e574b29fbd381.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'NELXBOTZ-MD'
