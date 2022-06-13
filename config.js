@@ -13,7 +13,7 @@ global.pulsa = '081515453325'
 global.gopay = '081515453325'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'NelxBotz'
+global.namebot = 'Nelx•Botz'
 global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 14.000\n2 Minggu 8.000\n1 Minggu 5.000'
